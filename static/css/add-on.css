@@ -1,0 +1,43 @@
+/*
+  This css file is for individual users to restyle items for their personal site,
+  or for the implementation of features specifically for their site. Anything that
+  is an official part of the theme (ex. Pull Requests) should be included in main.css
+  and follow the formatting and style given.
+*/
+
+.back {
+  background: linear-gradient(to bottom, #258fd0 0%,#012665 100%);
+  min-height: 100px;
+}
+
+.bo-title {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  line-height: 100px;
+}
+
+.bo-title .title {
+  display: flex;
+  justify-content: center;
+  word-wrap: normal;
+  padding-left: 20px;
+}
+
+.bo-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.left-logo {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
