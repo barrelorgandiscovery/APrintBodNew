@@ -1,5 +1,7 @@
 +++
-title = "Présentation du logiciel APrint Studio"
+title= "Présentation du logiciel APrint Studio"
+tags= ["presentation"]
+toc= true
 +++
 
 <br/>
@@ -13,63 +15,90 @@ Des outils d'automatisation et de manipulation de carton permettent de corriger 
 
 ## Copies d'écran
 
-![](menu.png)
 
-Menu Principal, fenetre d'accès rapide aux fonctionnalités
+{{% admonition "quote" "Menu principal" %}}
 
-![](vision_carton.png)
+{{< image src="menu.png" title="Menu principal" caption="Menu principal">}}
 
-Permet l'écoute, la modification, et le travail sur les reprise unitaires ou en script du carton, des modules de perforation, d'export peuvent y être adjoint
-
-![](videos.png)
-
-Créez des videos
-
-Montrez votre travail et partagez vos création sur les reseaux sociaux, en créant des videos
-
-![](instruments.png)
+{{% /admonition %}}
 
 
-Gestion des instruments
+{{% admonition "quote" "Fenetre de travail sur le carton" %}}
 
-Le logiciel dispose d'un certain nombres d'instruments de base, d'autres peuvent être importés simplement par glissé déposé
+{{< image src="vision_carton.png" title="Fenetre de travail sur le carton" caption="Permet l'écoute, la modification, et le travail sur les reprise unitaires ou en script du carton, des modules de perforation, d'export peuvent y être adjoint">}}
 
-
-![](creation_instrument.png)
-
-Créez votre propre instrument
-
-Chaque instrument est décrit avec toutes ses capacités (gammes, registres, percussions, sons)
+{{% /admonition %}}
 
 
-![](choix_instruments.png)
+{{% admonition "quote" "Creation de videos" %}}
 
-Un grand nombre d'instrument déjà définis. 
+{{< image src="videos.png" title="Créez des videos" caption="Montrez votre travail et partagez vos création sur les reseaux sociaux, en créant des videos">}}
 
-![](impression_poncifs.png)
-
-Prévisualisation de l'impression du ponçif, et impression sous différents formats sur une imprimante
-
-![](creation_disques.png)
-
-Création de disques carton, saisie, adaptation
-
-![](numerisation_cartons_et_disques.png)
-
-Récupérez le contenu musical d'un disque, pour l'arranger , en quelques minutes à partir d'une photo
+{{% /admonition %}}
 
 
-![](s2018-perfo2.png)
+
+{{% admonition "quote" "Gestion des instruments" %}}
+
+{{< image src="instruments.png" title="Gestion des instruments" caption="Le logiciel dispose d'un certain nombres d'instruments de base, d'autres peuvent être importés simplement par glissé déposé">}}
+
+{{% /admonition %}}
 
 
-Planification de perçage
 
-Planifier la perforation, vérifier les erreurs de passage en perforatrice, optimizer votre perforation
+{{% admonition "quote" "Créez vos propres instruments" %}}
+
+{{< image src="creation_instruments.png" title="Création d'instruments" caption="Le logiciel dispose d'un certain nombres d'instruments de base, d'autres peuvent être importés simplement par glissé déposé. Chaque instrument est décrit avec toutes ses capacités (gammes, registres, percussions, sons)">}}
+
+{{% /admonition %}}
 
 
-![](s2018-perfo4.png)
+    
 
 
-Perçer le carton
+{{% admonition "quote" "Un grand nombre d'instrument déjà définis" %}}
 
-Piloter une machine à CNC en utilisant les GCODE et le logiciel GRBLPunch sur arduino, régler la position machine, reprendre une perforation arrêtée
+{{< image src="choix_instruments.png" title="Un grand nombre d'instrument déjà définis" caption="Un grand nombre d'instrument déjà définis">}}
+
+{{% /admonition %}}
+
+
+
+
+{{% admonition "quote" "Impression de ponçifs" %}}
+
+{{< image src="impression_poncifs.png" title="Impression de ponçifs" caption="Prévisualisation de l'impression du ponçif, et impression sous différents formats sur une imprimante">}}
+
+{{% /admonition %}}
+
+
+
+{{% admonition "quote" "Création de disques carton, saisie, adaptation" %}}
+
+{{< image src="creation_disques.png" title="Création de disques carton, saisie, adaptation" caption="Création de disques carton, saisie, adaptation">}}
+
+{{% /admonition %}}
+
+
+
+{{% admonition "quote" "Récupérez le contenu musical d'un disque, pour l'arranger , en quelques minutes à partir d'une photo" %}}
+
+{{< image src="numerisation_cartons_et_disques.png" title="Récupérez le contenu musical d'un disque, pour l'arranger , en quelques minutes à partir d'une photo" caption="Récupérez le contenu musical d'un disque, pour l'arranger , en quelques minutes à partir d'une photo">}}
+
+{{% /admonition %}}
+
+
+{{% admonition "quote" "Planification de perçage" %}}
+
+{{< image src="s2018-perfo2.png" title="Planification de perçage" caption="Planification de perçage">}}
+
+{{% /admonition %}}
+
+
+{{% admonition "quote" "Perçer le carton" %}}
+
+{{< image src="s2018-perfo4.png" title="Perçer le carton" caption="Pilotez une machine CNC Perçer le carton">}}
+
+{{% /admonition %}}
+
+
