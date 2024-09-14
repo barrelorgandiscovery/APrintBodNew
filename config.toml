@@ -1,6 +1,6 @@
 # For a description of these parameters, please visit the theme wiki.
-# https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
-baseurl                 = "http://www.barrel-organ-discovery.org/"
+
+baseurl                 = "https://barrelorgandiscovery.github.io/APrintBodNew/"
 DefaultContentLanguage  = "fr"
 title                   = "Barrel Organ Disovery Web Site"
 theme                   = "LoveIt"
