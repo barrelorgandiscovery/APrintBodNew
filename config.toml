@@ -18,27 +18,27 @@ pluralizeListTitles     = false
   [[menu.main]]
     name              = "Home"
     identifier        = "home"
-    url               = "/"
+    url               = ""
     pre               = "<i class='fa fa-home'></i>"
     weight            = 1
   [[menu.main]]
     name              = "Articles"
     identifier        = "articles"
-    url               = "/articles/"
+    url               = "articles/"
     pre               = "<i class='far fa-newspaper'></i>"
     weight            = 3
 
   [[menu.main]]
     name              = "Gallery"
     identifier        = "gallery"
-    url               = "/gallery/"
+    url               = "gallery/"
     pre               = "<i class='fas fa-sitemap'></i>"
     weight            = 2
 
   [[menu.main]]
     name              = "Download"
     identifier        = "download"
-    url               = "/download/"
+    url               = "download/"
     pre               = "<i class='fas fa-download'></i>"
     weight            = 2
 
